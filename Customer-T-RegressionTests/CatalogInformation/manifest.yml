@@ -26,7 +26,7 @@ type: Custom Solution
 # If the ID is filled in but does not exist yet, a new Catalog item will be registered with this ID.
 # If the ID is filled in but does exist, properties of the item will be overwritten.
 #   Must be a valid GUID.
-id: 6e60cdfa-bb25-496f-b8ca-6dad5ef600be
+id: 
 
 # [Required]
 # The human-friendly name of the Catalog item.
@@ -34,7 +34,7 @@ id: 6e60cdfa-bb25-496f-b8ca-6dad5ef600be
 #   Max length: 100 characters.
 #   Cannot contain newlines.
 #   Cannot contain leading or trailing whitespace characters.
-title: AutomationScript
+title: Customer-T-RegressionTests
 
 # [Optional]
 # General information about the Catalog item.
